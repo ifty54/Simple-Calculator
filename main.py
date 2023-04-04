@@ -15,3 +15,6 @@ if c == "*":
 
 if c == "/":
   print("result for a / b is", a / b)
+
+if c == "%":
+  print("result for a % b is", a % b)
